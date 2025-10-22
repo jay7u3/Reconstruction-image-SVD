@@ -39,7 +39,13 @@ La version C++ utilise OpenCV pour lire l’image et afficher la reconstruction 
 
 - L’image floue au début (rang faible)
 - L’image de plus en plus nette (rang élevé)
+
+
+![](gifs/reconstruction2.gif)
+
+
 ![](gifs/reconstruction1.gif)
+
 
 ---
 
